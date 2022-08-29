@@ -18,7 +18,7 @@ app = FastAPI()
 model = pickle.load(open('LGBMClassifier.pkl', 'rb'))
 
 #Chargement des données 
-PATH = '../data/'
+PATH = '../P7_data/data/'
 df = pd.read_parquet(PATH+'test_df.parquet')
 
 #Fonction debug
