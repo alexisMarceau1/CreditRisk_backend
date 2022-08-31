@@ -5,3 +5,5 @@ uvicorn[standard]
 joblib
 numpy
 lightgbm
+pyarrow
+fastparquet
