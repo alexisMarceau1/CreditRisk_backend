@@ -4,4 +4,3 @@ gunicorn
 uvicorn[standard]
 joblib
 numpy
-pickle
