@@ -4,3 +4,4 @@ gunicorn
 uvicorn[standard]
 joblib
 numpy
+lightgbm
