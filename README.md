@@ -1,10 +1,10 @@
 # P7_backend
 
+L'API indique la probabilité que le client rembourse sont prêt
+
 Application docs :
 
 https://api-alexis-p7.herokuapp.com/docs
-
-Indique la probabilité que le client rembourse sont prêt
 
 id "bon client" : 100057
 
