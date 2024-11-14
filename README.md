@@ -43,7 +43,7 @@ Follow these steps to test the backend locally:
 1. **Clone this Repository**:
    - Open a terminal and run:
      ```bash
-     git clone https://github.com/your-username/CreditRisk_backend.git
+     git clone https://github.com/alexisMarceau1/CreditRisk_backend.git
      ```
 
 2. **Navigate to the Project Directory**:
